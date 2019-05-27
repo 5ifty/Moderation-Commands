@@ -21,6 +21,7 @@ Unmute- Allows a user to talk again(Must have a role called "Muted")
 Softban- Bans and Unbans a user (Similar to kicking them but removes all messages)
 
 
+
 **Message Moderation**
 (This section consits of deleting messages , all commands are a subcommand of **prune**)
 
